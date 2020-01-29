@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https//iancarlo-lab.github.io/portfolio-test/static/css/main.8c17eeb6.chunk.css",
+    "main.js": "https//iancarlo-lab.github.io/portfolio-test/static/js/main.1740cd9b.chunk.js",
+    "main.js.map": "https//iancarlo-lab.github.io/portfolio-test/static/js/main.1740cd9b.chunk.js.map",
+    "runtime-main.js": "https//iancarlo-lab.github.io/portfolio-test/static/js/runtime-main.80d027cf.js",
+    "runtime-main.js.map": "https//iancarlo-lab.github.io/portfolio-test/static/js/runtime-main.80d027cf.js.map",
+    "static/css/2.a6bc1c31.chunk.css": "https//iancarlo-lab.github.io/portfolio-test/static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.e0c367d9.chunk.js": "https//iancarlo-lab.github.io/portfolio-test/static/js/2.e0c367d9.chunk.js",
+    "static/js/2.e0c367d9.chunk.js.map": "https//iancarlo-lab.github.io/portfolio-test/static/js/2.e0c367d9.chunk.js.map",
+    "index.html": "https//iancarlo-lab.github.io/portfolio-test/index.html",
+    "precache-manifest.1fb4fbef9be06ab6b3e6e0b41c50b92a.js": "https//iancarlo-lab.github.io/portfolio-test/precache-manifest.1fb4fbef9be06ab6b3e6e0b41c50b92a.js",
+    "service-worker.js": "https//iancarlo-lab.github.io/portfolio-test/service-worker.js",
+    "static/css/2.a6bc1c31.chunk.css.map": "https//iancarlo-lab.github.io/portfolio-test/static/css/2.a6bc1c31.chunk.css.map",
+    "static/css/main.8c17eeb6.chunk.css.map": "https//iancarlo-lab.github.io/portfolio-test/static/css/main.8c17eeb6.chunk.css.map",
+    "static/js/2.e0c367d9.chunk.js.LICENSE": "https//iancarlo-lab.github.io/portfolio-test/static/js/2.e0c367d9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d027cf.js",
+    "static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.e0c367d9.chunk.js",
+    "static/css/main.8c17eeb6.chunk.css",
+    "static/js/main.1740cd9b.chunk.js"
+  ]
+}
